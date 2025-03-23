@@ -1,0 +1,15 @@
+{
+  "name": "goose-element",
+  "version": "1.0.0",
+  "description": "npm 包入口",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@goose-element/components": "workspace:*"
+  }
+}

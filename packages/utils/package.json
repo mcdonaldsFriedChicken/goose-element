@@ -1,0 +1,12 @@
+{
+  "name": "@goose-element/utils",
+  "version": "1.0.0",
+  "description": "工具函数目录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
