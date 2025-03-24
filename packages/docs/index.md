@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "goose-element"
-  text: "高仿 ElementPlus 组件库"
+  name: "Goose Element"
+  text: "A VitePress Site"
   tagline: My great project tagline
   actions:
     - theme: brand
