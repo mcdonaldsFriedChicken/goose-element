@@ -2,20 +2,5 @@
 </script>
 
 <template>
-  <er-button>2025 年 3 月 23 日</er-button>
+  <er-button type="primary" size="large">2025 年 3 月 23 日</er-button>
 </template>
-
-<style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
-}
-</style>

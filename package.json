@@ -8,7 +8,7 @@
     "docs:dev": "pnpm --filter @goose-element/docs dev",
     "docs:build": "pnpm --filter @goose-element/docs build",
     "docs:preview": "pnpm --filter @goose-element/docs preview",
-    "test": "echo 'todo test'"
+    "test": "pnpm --filter @goose-element/components test "
   },
   "keywords": [],
   "author": "",
